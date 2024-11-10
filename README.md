@@ -1,6 +1,10 @@
 # Project, BeeSure
 by Honey Bay (Jade Kang, Christoper Hoang, Soomin Han, Alan Tran) 
 
+<br>
+<br>
+<br>
+
 ## project overview
 
 <br>
