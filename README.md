@@ -1,9 +1,7 @@
 # Project, BeeSure
-by Honey Bay
-
+by Honey Bay (Jade Kang, Christoper Hoang, Soomin Han, Alan Tran) 
 
 ## project overview
-
 
 <br>
 BeeSure is an innovative XR (Extended Reality) experience designed to make cerebellar exams more accessible and engaging for patients at home. With many patients facing barriers to visiting healthcare facilities, this project offers a convenient, interactive way for them to monitor their health from the comfort of their own homes. Through two game-like stages, users can perform cerebellar self-assessments, and their performance data is collected and shared with their doctors for customized feedback. The goal is to reduce healthcare expenses and promote greater participation in self-monitoring.
@@ -40,7 +38,10 @@ This project would not have been possible without the inspiration and collaborat
 
 
 <h4>Sound Effect</h4>
-<li></li>
+<li>https://assetstore.unity.com/packages/audio/music/orchestral/adventure-gaming-music-suite-300438</li>
+<li>https://assetstore.unity.com/packages/audio/music/adventure-music-and-sfx-221545</li>
+<li>https://assetstore.unity.com/packages/audio/music/arcade-game-bgm-17-210775</li>
+
 
 
 <h4>Free Assets used in this project</h4>
