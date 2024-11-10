@@ -45,8 +45,8 @@ This project would not have been possible without the inspiration and collaborat
 
 
 <h4>Free Assets used in this project</h4>
-<li>https://sketchfab.com/3d-models/sea-keep-lonely-watcher-09a15a0c14cb4accaf060a92bc70413d  </li>
-<li> Small Rowingboat - Download Free 3D model by Samuel Page (@SamuelPage) [a191fd9]  </li>
-<li>APPLE | Fab</li>
-<li>Wooden Bucket | Fab</li>
+<li>https://sketchfab.com/3d-models/sea-keep-lonely-watcher-09a15a0c14cb4accaf060a92bc70413d</li>
+<li>https://sketchfab.com/3d-models/small-rowingboat-a191fd9763b2452cae6120c5c9ecc5ce</li>
+<li>https://www.fab.com/listings/d14c4c39-c5c9-4bc7-b2b8-ae0e2c90ad5c</li>
+<li>https://www.fab.com/listings/600fa600-9b92-461b-a41e-b9fd732a72ea</li>
 <li>https://sketchfab.com/3d-models/low-poly-tree-scene-free-89daa5e21f0d4f08a59dba0d566e88bd  </li>
